@@ -18,7 +18,7 @@ Discord is rolling out an experimental feature called **Guild Tags**, which allo
 4. Choose the tag you want to display publicly on your profile!
  
 📸 *Image Tutorial:*  
-  ![Img Tut](images\howtotag.png)
+  ![Img Tut](images/howtotag.png)
  
 ---
  
